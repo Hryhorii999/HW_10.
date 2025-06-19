@@ -1,0 +1,367 @@
+    1  pyton3
+    2  pyton3 --version
+    3  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+    4  /usr/local/bin/python3 Untitled-1
+    5  /usr/local/bin/python3 Untitled-1
+    6  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+    7  echo >> /Users/mac/.zprofile\necho 'eval "$(/usr/local/bin/brew shellenv)"' >> /Users/mac/.zprofile\n
+    8  eval "$(/usr/local/bin/brew shellenv)"\n
+    9  brew --version\n
+   10  brew install python\n
+   11  ^[[200~python --version
+   12  ~python --version\n
+   13  python --version\n
+   14  python3 --version\n
+   15  python3\n
+   16  /usr/local/bin/python3 "/Users/mac/Desktop/код бота.py"
+   17  pip --version\n
+   18  python3 --version\n
+   19  python3 -m ensurepip --upgrade\n
+   20  brew install python\n
+   21  python3 -m ensurepip --upgrade\n
+   22  python3 -m venv myenv\n
+   23  source myenv/bin/activate\n
+   24  pip install python-telegram-bot\n
+   25  source myenv/bin/activate\n
+   26  source myenv/bin/activate\n
+   27  python код бота.py
+   28  python bot.py\n
+   29  cd /Users/mac/Desktop\n
+   30  python3 -m venv myenv\n
+   31  source myenv/bin/activate\n
+   32  pip install python-telegram-bot\n
+   33  pyton "bot.py"
+   34  python "bot.py"
+   35  ls\n
+   36  python3 bot.py\n
+   37  python bot.py
+   38  python3 bot.py\n
+   39  python bot.py
+   40  python3 bot.py
+   41  python3 bot.py\n
+   42  python bot.py
+   43  python3 bot.py
+   44  pip install requests\n
+   45  python3 bot.py
+   46  ps aux | grep python\n
+   47  ls\n
+   48  python3 bot.py
+   49  cd /Users/mac/Desktop\n
+   50  python3 bot.py\n
+   51  source myenv/bin/activate\n
+   52  pip install requests\n
+   53  python3 bot.py\n
+   54  python3 bot.py
+   55  python3 bot.py
+   56  python3 bot.py
+   57  python3 bot.py
+   58  python3 bot.py
+   59  python3 bot.py
+   60  pip install python-telegram-bot --upgrade\n
+   61  python3 bot.py
+   62  python3 bot.py
+   63  python3 bot.py
+   64  python3 boy.py
+   65  pip install --upgrade python-telegram-bot\n
+   66  python3 bot.py
+   67  ls /Users/mac/Desktop/\n
+   68  python3 /Users/mac/Desktop/bot.py\n
+   69  pip install python-telegram-bot requests\n
+   70  python3 bot.py\n
+   71  python3 bot.py
+   72  python3 bot.py
+   73  python3 bot.py
+   74  python3 bot.py
+   75  python3 bot.py
+   76  python3 bot.py
+   77  python3 bot.py
+   78  python3 bot.py
+   79  python3 bot.py
+   80  python3 bot.py
+   81  python3 bot.py
+   82  python3 bot.py
+   83  python3 bot.py
+   84  python3 bot.py
+   85  python3 bot.py
+   86  python3 bot.py
+   87  pethon3 bot.py
+   88  pathon3 bot.py
+   89  python3 bot.py
+   90  python3 bot.py
+   91  python bot.py
+   92  python3 bot.py
+   93  pethon3 bot.py
+   94  python3 bot.py
+   95  python3 bot.py
+   96  phyton3 bot.py
+   97  python3 bot.py
+   98  python3 bot.py
+   99  python3 bot.py
+  100  python3 bot.py
+  101  python3 bot.py
+  102  python3 bot.py
+  103  python3 bot.py
+  104  python3 bot.py
+  105  python bot2.py
+  106  python --version\n
+  107  python3 --version\n
+  108  ls\n
+  109  python3 bot2.py\n
+  110  python3 bot2.py
+  111  nano bot2.py\n
+  112  ls
+  113  python3 bot2.py\n
+  114  pwd
+  115  cd Documents\n
+  116  ls\n
+  117  python3 bot2.py
+  118  find /Users/mac -name "bot2.py"\n
+  119  cd ~/Desktop\n
+  120  ls\n
+  121  python3 bot2.py
+  122  pip3 install gspread\n
+  123  python3 bot2.py\n
+  124  pip3 install gspread\n
+  125  python3 -m pip install gspread\n
+  126  pip3 show gspread\n
+  127  pip3 install gspread\n
+  128  mac@MacBook-Pro-Mac Desktop % pip3 install gspread\n\nerror: externally-managed-environment\n\n× This environment is externally managed\n╰─> To install Python packages system-wide, try brew install\n    xyz, where xyz is the package you are trying to\n    install.\n    \n    If you wish to install a Python library that isn't in Homebrew,\n    use a virtual environment:\n    \n    python3 -m venv path/to/venv\n    source path/to/venv/bin/activate\n    python3 -m pip install xyz\n    \n    If you wish to install a Python application that isn't in Homebrew,\n    it may be easiest to use 'pipx install xyz', which will manage a\n    virtual environment for you. You can install pipx with\n    \n    brew install pipx\n    \n    You may restore the old behavior of pip by passing\n    the '--break-system-packages' flag to pip, or by adding\n    'break-system-packages = true' to your pip.conf file. The latter\n    will permanently disable this error.\n    \n    If you disable this error, we STRONGLY recommend that you additionally\n    pass the '--user' flag to pip, or set 'user = true' in your pip.conf\n    file. Failure to do this can result in a broken Homebrew installation.\n    \n    Read more about this behavior here: <https://peps.python.org/pep-0668/>\n\nnote: If you believe this is a mistake, please contact your Python installation or OS distribution provider. You can override this, at the risk of breaking your Python installation or OS, by passing --break-system-packages.\nhint: See PEP 668 for the detailed specification.\nmac@MacBook-Pro-Mac Desktop %python3 -m venv myenv\n
+  129  source myenv/bin/activate\n
+  130  pip install gspread\n
+  131  python bot2.py\n
+  132  pip install oauth2client\n
+  133  python bot2.py\n
+  134  python3 bot2.py
+  135  pip install pyTelegramBotAPI\n
+  136  python3 bot2.py\n
+  137  python3 bot2.py
+  138  python3 bot2.py
+  139  python3 bot2.py
+  140  pip install gspread oauth2client\n
+  141  python3 bot2.py
+  142  python3 bot2.py
+  143  python3 bot2.py
+  144  pip install pyTelegramBotAPI gspread oauth2client\n
+  145  python3 bot2.py
+  146  python3 bot2.py
+  147  python3 bot2.py
+  148  python3 bot2.py
+  149  python3 bot2.py
+  150  python3 bot2.py
+  151  pip install pandas\n
+  152  pip install openpyxl\n
+  153  python3 bot2.py\n
+  154  python3 bot2.py
+  155  ls /Users/mac/Desktop/безіменна\ папка/\n
+  156  python3 bot2.py
+  157  python3 bot2.py
+  158  python3 bot2.py
+  159  python3 bot2.py
+  160  python3 bot2.py
+  161  python3 bot2.py
+  162  python3 bot2.py
+  163  python3 bot2.py
+  164  python3 bot2.py
+  165  python3 bot2.py
+  166  python3 bot2.py
+  167  python3 bot2.py
+  168  python3 bot2.py
+  169  python3 bot2.py
+  170  pyrhon3 bot2.py
+  171  python3 bot2.py
+  172  python3 bot2.py
+  173  python3 bot2.py
+  174  python3 bot2.py
+  175  python3 bot2.py
+  176  python3 bot2.py
+  177  python3 bot2.py
+  178  pip install gspread oauth2client\n
+  179  python3 bot2.py
+  180  pethon3 bot2.py
+  181  python3 bot2.py
+  182  python3 bot2.py
+  183  python3 bot2.py
+  184  python3 bot2.py
+  185  pip install schedule\n
+  186  python3 bot2.py
+  187  python3 bot2.py
+  188  python3 bot2.py
+  189  python3 bot2.py
+  190  python3 bot2.py
+  191  python3 bot2.py
+  192  ps aux | grep python\n
+  193  python3 bot2.py
+  194  cd ~/Desktop\n
+  195  python3 bot2.py\n
+  196  pip3 install pyTelegramBotAPI\n
+  197  python3 bot2.py\n
+  198  pip3 install pyTelegramBotAPI\n
+  199  python3 -m venv myenv\n
+  200  source myenv/bin/activate\n
+  201  pip install pyTelegramBotAPI\n
+  202  python3 bot2.py\n
+  203  kill <PID>\n
+  204  python3 bot2.py
+  205  python3 bot2.py
+  206  ls /Users/mac/Desktop\n
+  207  python3 bot2.py\n
+  208  cd ~/Desktop\n
+  209  python3 bot2.py\n
+  210  pip install pyTelegramBotAPI\n
+  211  source myenv/bin/activate\n
+  212  pip install pyTelegramBotAPI\n
+  213  python3 bot2.py\n
+  214  python3 bot2.py
+  215  pip install pyTelegramBotAPI\n
+  216  python3 --version\n
+  217  python3 -m pip --version\n
+  218  python3 -m pip install pyTelegramBotAPI\n
+  219  python3 -m ensurepip --upgrade\n
+  220  python3 -m venv myenv\n
+  221  source myenv/bin/activate\n
+  222  python3 -m pip install pyTelegramBotAPI\n
+  223  python3 bot2.py
+  224  pwd\n
+  225  ls\n
+  226  cd ~/Desktop\n
+  227  python3 bot2.py\n
+  228  source myenv/bin/activate\n
+  229  pip install pandas\n
+  230  pip list\n
+  231  python3 bot2.py\n
+  232  python3 bot2.py
+  233  cd ~/Desktop\n
+  234  python3 bot2.py\n
+  235  cd ~/безіменна папка
+  236  ls\n
+  237  python3 /Users/mac/безіменна папка/bot2.py
+  238  python3 /Users/mac/Desktop/bot2.py\n
+  239  сls /Users/mac/Desktop/\n
+  240  ls /Users/mac/Desktop/\n
+  241  python3 "/Users/mac/Desktop/безіменна папка/bot2.py"\n
+  242  python3 /Users/mac/Desktop/безіменна\ папка/bot2.py\n
+  243  source myenv/bin/activate\n
+  244  pip install pyTelegramBotAPI\n
+  245  python3 -m pip install pyTelegramBotAPI\n
+  246  python3 /Users/mac/Desktop/безіменна\ папка/bot2.py\n
+  247  python3 bot2.py
+  248  find ~/Desktop -name "bot2.py"\n
+  249  python3 "/Users/mac/Desktop/безіменна папка/bot2.py"\n
+  250  source myenv/bin/activate\n
+  251  pip install pyTelegramBotAPI\n
+  252  python3 "/Users/mac/Desktop/безіменна папка/bot2.py"\n
+  253  pip install pandas\n
+  254  python3 "/Users/mac/Desktop/безіменна папка/bot2.py"\n
+  255  source myenv/bin/activate\n
+  256  pip uninstall numpy pandas\npip install numpy pandas\n
+  257  python3 "/Users/mac/Desktop/безіменна папка/bot2.py"\n
+  258  pip install gspread\n
+  259  pip install oauth2client\n
+  260  python3 "/Users/mac/Desktop/безіменна папка/bot2.py"\n
+  261  pip install schedule\n
+  262  python3 "/Users/mac/Desktop/безіменна папка/bot2.py"\n
+  263  python3 "/Users/mac/Desktop/безіменна папка/bot2.py"
+  264  python bot.2
+  265  brew install --cask dbeaver-community
+  266  man ls
+  267  ls
+  268  cls
+  269  clear
+  270  ls
+  271  clear
+  272  cd desktop
+  273  ls
+  274  cd ..
+  275  ls
+  276  clear
+  277  cd ~
+  278  ls
+  279  cd desktop
+  280  pwd
+  281  mkdir lesson
+  282  ls
+  283  cd lesson
+  284  mkdir lesson2
+  285  cd lesson2
+  286  touch fail.txt
+  287  touch fail2.doc
+  288  ls
+  289  vim fail.txt
+  290  nano fail.txt
+  291  nano fail.txt
+  292  nano fail.txt
+  293  cat fail.txt
+  294  clear
+  295  pwd
+  296  /Users/mac/desktop/lesson/lesson2/fail.txt /Users/mac/desktop
+  297  cp /Users/mac/desktop/lesson/lesson2/fail.txt /Users/mac/desktop/2fail.txt
+  298  mv /Users/mac/desktop/2fail.txt /Users/mac/desktop/lesson/3fail.txt
+  299  rm 3fail.txt
+  300  rm fail.txt
+  301  ls
+  302  cd ..
+  303  cd ..
+  304  ls
+  305  cd lesson
+  306  ls
+  307  rm 3fail.txt
+  308  ls
+  309  pink https://www.edu.goit.global/uk
+  310  ping https://www.edu.goit.global/uk
+  311  ping https://mail.google.com/
+  312  date
+  313  system_profiler
+  314  clear
+  315  ifconfig
+  316  clear
+  317  ifconfig
+  318  whoami
+  319  clean
+  320  clear
+  321  git -version
+  322  gir --version
+  323  git --version
+  324  ls
+  325  cd desktop
+  326  cd ..
+  327  ls
+  328  mkdir HWGit
+  329  cd HWGit
+  330  history -c && rm ~/.bash_history
+  331  history -c\nrm ~/.bash_history
+  332  rm ~/.zsh_history\ntouch ~/.zsh_history\nfc -R ~/.zsh_history\n
+  333  git config --global user.name "Sazonov Hryhorii"
+  334  git config --global user.email grisha.sazonov.1995@gmail.com
+  335  git clone https://github.com/Hryhorii999/HW_10..git
+  336  ls
+  337  cd HW_10.
+  338  ls
+  339  touch text_ignore.txt
+  340  ls
+  341  nano .gitignore
+  342  nano .gitignore
+  343  git status
+  344  git add
+  345  git add .gitignore
+  346  git status
+  347  git commit -m"зафіксовано зміни"
+  348  touch main_test.txt
+  349  git add main_tast.txt
+  350  ls
+  351  git status
+  352  git add main_test.txt
+  353  git commit -m"Фіксація змін"
+  354  git checkout -b develop
+  355  touch develop_test.txt
+  356  git add develop_test.txt
+  357  git status
+  358  git commit -m"Створено новий файл"
+  359  nano develop_test.txt
+  360  git status
+  361  git add develop_test.txt
+  362  git commit -m"Внесено зміни в файл"
+  363  git checkout main
+  364  git merge develop
+  365  git log
+  366  command_list.csv
+  367  git command_list.csv
